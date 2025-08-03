@@ -1,2 +1,1 @@
-# Oxford-5000
-Oxford 5000 with JSON format
+Thanks to [tyypgzl/Oxford-5000-words](https://github.com/tyypgzl/Oxford-5000-words) & [winterdl/oxford-5000-vocabulary-audio-definition](https://github.com/winterdl/oxford-5000-vocabulary-audio-definition) for providing source data for this project. My job is to merge them.
